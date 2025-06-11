@@ -1,6 +1,6 @@
-for backend:
-  cd .\backend\
-  node server.js
+for backend: <br/>
+  cd .\backend\ <br/>
+  node server.js <br/>
 
 for frontend:
   cd .\frontend\
